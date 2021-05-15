@@ -1,4 +1,4 @@
-## Docker image: php7.4-fpm
+## Github repo to: `rojen/php7.4-fpm`
 
 clone:
 
